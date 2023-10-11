@@ -1,0 +1,15 @@
+C:\Users\bobby\Documents\datamatiker\C#\interface\interface\bin\Debug\net6.0\interface.exe
+C:\Users\bobby\Documents\datamatiker\C#\interface\interface\bin\Debug\net6.0\interface.deps.json
+C:\Users\bobby\Documents\datamatiker\C#\interface\interface\bin\Debug\net6.0\interface.runtimeconfig.json
+C:\Users\bobby\Documents\datamatiker\C#\interface\interface\bin\Debug\net6.0\interface.dll
+C:\Users\bobby\Documents\datamatiker\C#\interface\interface\bin\Debug\net6.0\interface.pdb
+C:\Users\bobby\Documents\datamatiker\C#\interface\interface\obj\Debug\net6.0\interface.csproj.AssemblyReference.cache
+C:\Users\bobby\Documents\datamatiker\C#\interface\interface\obj\Debug\net6.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobby\Documents\datamatiker\C#\interface\interface\obj\Debug\net6.0\interface.AssemblyInfoInputs.cache
+C:\Users\bobby\Documents\datamatiker\C#\interface\interface\obj\Debug\net6.0\interface.AssemblyInfo.cs
+C:\Users\bobby\Documents\datamatiker\C#\interface\interface\obj\Debug\net6.0\interface.csproj.CoreCompileInputs.cache
+C:\Users\bobby\Documents\datamatiker\C#\interface\interface\obj\Debug\net6.0\interface.dll
+C:\Users\bobby\Documents\datamatiker\C#\interface\interface\obj\Debug\net6.0\refint\interface.dll
+C:\Users\bobby\Documents\datamatiker\C#\interface\interface\obj\Debug\net6.0\interface.pdb
+C:\Users\bobby\Documents\datamatiker\C#\interface\interface\obj\Debug\net6.0\interface.genruntimeconfig.cache
+C:\Users\bobby\Documents\datamatiker\C#\interface\interface\obj\Debug\net6.0\ref\interface.dll
